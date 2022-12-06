@@ -3,11 +3,10 @@ Challenge 7 from the UW FinTech course.
 
 
 
+![image](https://user-images.githubusercontent.com/115187071/205786164-6facbb18-2bb2-4ff3-b20b-f1c9187d986c.png)
 
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="C:/users/ajcth/documents/github/challenge_7/screen_capture.PNG">
-    <source src="C:/users/ajcth/documents/github/challenge_7/screen_recording.mp4" type="video/mp4">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/115187071/205785589-8d8da565-e6ed-4843-992a-b0ba1c940472.mp4
 
+
+[![Video Recording]({https://user-images.githubusercontent.com/115187071/205786164-6facbb18-2bb2-4ff3-b20b-f1c9187d986c.png})]({https://user-images.githubusercontent.com/115187071/205785589-8d8da565-e6ed-4843-992a-b0ba1c940472.mp4} "Video Example")
